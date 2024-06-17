@@ -1,6 +1,6 @@
 /* 
  * rosserial PubSub Example
- * Prints "hello world!" and toggles led
+ * Prints "hello world!" and toggles led and controls motors
  */
 
 #include <ros.h>
